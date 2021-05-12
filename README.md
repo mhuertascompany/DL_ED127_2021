@@ -25,6 +25,6 @@ Monday to Friday:
    Tutorials will be on Google Colab. Please make sure to open a Google Account before starting the course.
    
 ## Slack Channel
-Please join here: https://join.slack.com/t/iaed127/shared_invite/zt-f5sohajk-uP00KQtWdaPIC_Znw6H2EA
+Please join here: https://join.slack.com/t/iaed127/shared_invite/zt-qjlj9l28-EjqfWI1tGSrbsEkmcZ2EOQ
    
 
