@@ -22,8 +22,8 @@ Monday to Friday:
 - if time allows: recurisve neural networks, attention mechanisms
 
 ## Requirements for the tutorials
-   Tutorials will be on Google Colab. Please make sure to open a Google Account before starting the course.
-   Link to wonder.me for the hand-on sessions: https://www.wonder.me/r?id=33135bca-0b6f-4a19-9041-bbdb9aa36ed2
+  -  Tutorials will be on Google Colab. Please make sure to open a Google Account before starting the course.
+  - Link to wonder.me for the hand-on sessions: https://www.wonder.me/r?id=33135bca-0b6f-4a19-9041-bbdb9aa36ed2
    
 ## Slack Channel
 Please join here: https://join.slack.com/t/iaed127/shared_invite/zt-qjlj9l28-EjqfWI1tGSrbsEkmcZ2EOQ
